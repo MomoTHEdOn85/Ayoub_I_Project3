@@ -1,0 +1,53 @@
+Followings are the measurements used for the Project 3 scafold design. Please note that each of them are measured in pixels.
+
+-----------
+ Distance :
+-----------
+ >>HomePage
+- [Body Section] from the header and footer : 18px
+- Between Panels (such as ad, products etc) inside [Body Section] : 8px
+_________________________________________________________________________
+
+ >>ContactPage
+- [Body Section] from the header and footer : 47px
+- Between Panels (such as ad, products etc) inside [Body Section] : 12px
+  (body is aligned at center)
+
+
+--------------
+Measurements :
+--------------
+- Logo(header & Footer) = 133px Width & 67px height
+- Nav = 384px w & 67px h
+- Copyright Panel = 522px w & 16px h
+
+_________________________________________________________
+
+--HomePage:
+  - Hero Image = 522px w & 224px h
+  - Ad Panel = 522px w & 151px h
+  - Products Panel + About/Our Story = 
+    >>Text Area = 202px w & 179px h
+    >> Image Area = 322px w & 179px h
+  - Email SignUp = 523px w & 88px h
+  - Email SignUp Button = 124px w & 25px h
+
+__________________________________________________________
+
+--ContactPage
+  - Contact Us = 266px w & 82px h
+  - Name = 266px w & 35px h
+  - Email = 266px w & 35px h
+  - Phone Number = 266px w & 35px h
+  - Topic Heading = 266px w & and 35px h
+  - Your Message = 266px w & 76px h
+  - Send Button = 78px w & 35px h
+
+----------------------------------------------------------------------
+  Addtional Information :
+-----------------------------------------------------------------------
+Font Family : Intern 
+Size used = 16px (on CONTACT, its 30px)
+
+ 
+
