@@ -5,6 +5,9 @@
 
 # This project is a prep task for the upcomming midterm(where we have to create 5 pages). Therefore, this site will only consists of the scafold version. Fully desgined website will be made available in the upcoming weeks.
 
+-----
+##!!Please note that the link to [contact page] is provided on the Footer Nav, meanwhile link to [Index/Homepage] is provided at the Main Navigation.!!
+-----
 
 ## Prerequisites
 All you need is a browser and GitHub to view this site.
